@@ -1,7 +1,7 @@
 /*************************************************************
 Advent of Code:
 Day 3
-Challenge 1
+Challenge 2
 
 Input is a a text file where each line is a string that represents
 a rectangular section of a large fabric. Each line follows the same
